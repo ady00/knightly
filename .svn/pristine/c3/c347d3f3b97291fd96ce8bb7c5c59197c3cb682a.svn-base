@@ -1,0 +1,6 @@
+// Example of .env.local file
+
+ENV=
+BASE_URL=
+API_BASE=
+GOOGLE_LOGIN_CLIENT_ID=
